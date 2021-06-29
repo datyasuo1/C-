@@ -1,0 +1,4 @@
+D:\Hoc_Tap\C#\DisplayDetail\DisplayDetail\obj\Debug\netcoreapp3.1\AnoonymousType.csproj.AssemblyReference.cache
+D:\Hoc_Tap\C#\DisplayDetail\DisplayDetail\obj\Debug\netcoreapp3.1\AnoonymousType.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\DisplayDetail\DisplayDetail\obj\Debug\netcoreapp3.1\AnoonymousType.AssemblyInfo.cs
+D:\Hoc_Tap\C#\DisplayDetail\DisplayDetail\obj\Debug\netcoreapp3.1\AnoonymousType.csproj.CoreCompileInputs.cache

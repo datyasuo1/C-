@@ -1,0 +1,13 @@
+D:\Hoc_Tap\C#\DisplayDetail\Method\obj\Debug\netcoreapp3.1\Method.csproj.AssemblyReference.cache
+D:\Hoc_Tap\C#\DisplayDetail\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\DisplayDetail\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+D:\Hoc_Tap\C#\DisplayDetail\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\C#\DisplayDetail\Method\bin\Debug\netcoreapp3.1\Method.exe
+D:\Hoc_Tap\C#\DisplayDetail\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+D:\Hoc_Tap\C#\DisplayDetail\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+D:\Hoc_Tap\C#\DisplayDetail\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+D:\Hoc_Tap\C#\DisplayDetail\Method\bin\Debug\netcoreapp3.1\Method.dll
+D:\Hoc_Tap\C#\DisplayDetail\Method\bin\Debug\netcoreapp3.1\Method.pdb
+D:\Hoc_Tap\C#\DisplayDetail\Method\obj\Debug\netcoreapp3.1\Method.dll
+D:\Hoc_Tap\C#\DisplayDetail\Method\obj\Debug\netcoreapp3.1\Method.pdb
+D:\Hoc_Tap\C#\DisplayDetail\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache

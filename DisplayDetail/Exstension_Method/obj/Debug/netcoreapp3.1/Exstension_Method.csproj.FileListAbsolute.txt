@@ -1,0 +1,4 @@
+D:\Hoc_Tap\C#\DisplayDetail\Exstension_Method\obj\Debug\netcoreapp3.1\Exstension_Method.csproj.AssemblyReference.cache
+D:\Hoc_Tap\C#\DisplayDetail\Exstension_Method\obj\Debug\netcoreapp3.1\Exstension_Method.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\DisplayDetail\Exstension_Method\obj\Debug\netcoreapp3.1\Exstension_Method.AssemblyInfo.cs
+D:\Hoc_Tap\C#\DisplayDetail\Exstension_Method\obj\Debug\netcoreapp3.1\Exstension_Method.csproj.CoreCompileInputs.cache
