@@ -1,0 +1,12 @@
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.exe
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.deps.json
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.runtimeconfig.json
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.runtimeconfig.dev.json
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.dll
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\bin\Debug\netcoreapp3.1\NumberFormat.pdb
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.AssemblyInfo.cs
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.dll
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.pdb
+D:\Hoc_Tap\C#\ValueAndReferenceType\NumberFormat\obj\Debug\netcoreapp3.1\NumberFormat.genruntimeconfig.cache

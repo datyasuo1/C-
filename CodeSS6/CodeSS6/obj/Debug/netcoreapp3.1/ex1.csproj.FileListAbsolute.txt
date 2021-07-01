@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\CodeSS6\CodeSS6\obj\Debug\netcoreapp3.1\ex1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CodeSS6\CodeSS6\obj\Debug\netcoreapp3.1\ex1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CodeSS6\CodeSS6\obj\Debug\netcoreapp3.1\ex1.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\C#\CodeSS6\CodeSS6\obj\Debug\netcoreapp3.1\ex1.csproj.AssemblyReference.cache
+D:\Hoc_Tap\C#\CodeSS6\CodeSS6\obj\Debug\netcoreapp3.1\ex1.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\CodeSS6\CodeSS6\obj\Debug\netcoreapp3.1\ex1.AssemblyInfo.cs
+D:\Hoc_Tap\C#\CodeSS6\CodeSS6\obj\Debug\netcoreapp3.1\ex1.csproj.CoreCompileInputs.cache
