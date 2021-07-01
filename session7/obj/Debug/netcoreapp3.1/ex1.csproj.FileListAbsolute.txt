@@ -1,0 +1,12 @@
+D:\Hoc_Tap\C#\session7\bin\Debug\netcoreapp3.1\ex1.exe
+D:\Hoc_Tap\C#\session7\bin\Debug\netcoreapp3.1\ex1.deps.json
+D:\Hoc_Tap\C#\session7\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.json
+D:\Hoc_Tap\C#\session7\bin\Debug\netcoreapp3.1\ex1.runtimeconfig.dev.json
+D:\Hoc_Tap\C#\session7\bin\Debug\netcoreapp3.1\ex1.dll
+D:\Hoc_Tap\C#\session7\bin\Debug\netcoreapp3.1\ex1.pdb
+D:\Hoc_Tap\C#\session7\obj\Debug\netcoreapp3.1\ex1.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\session7\obj\Debug\netcoreapp3.1\ex1.AssemblyInfo.cs
+D:\Hoc_Tap\C#\session7\obj\Debug\netcoreapp3.1\ex1.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\C#\session7\obj\Debug\netcoreapp3.1\ex1.dll
+D:\Hoc_Tap\C#\session7\obj\Debug\netcoreapp3.1\ex1.pdb
+D:\Hoc_Tap\C#\session7\obj\Debug\netcoreapp3.1\ex1.genruntimeconfig.cache
