@@ -1,0 +1,13 @@
+D:\Hoc_Tap\C#\Code2\bin\Debug\netcoreapp3.1\Code2.exe
+D:\Hoc_Tap\C#\Code2\bin\Debug\netcoreapp3.1\Code2.deps.json
+D:\Hoc_Tap\C#\Code2\bin\Debug\netcoreapp3.1\Code2.runtimeconfig.json
+D:\Hoc_Tap\C#\Code2\bin\Debug\netcoreapp3.1\Code2.runtimeconfig.dev.json
+D:\Hoc_Tap\C#\Code2\bin\Debug\netcoreapp3.1\Code2.dll
+D:\Hoc_Tap\C#\Code2\bin\Debug\netcoreapp3.1\Code2.pdb
+D:\Hoc_Tap\C#\Code2\obj\Debug\netcoreapp3.1\Code2.csproj.AssemblyReference.cache
+D:\Hoc_Tap\C#\Code2\obj\Debug\netcoreapp3.1\Code2.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\Code2\obj\Debug\netcoreapp3.1\Code2.AssemblyInfo.cs
+D:\Hoc_Tap\C#\Code2\obj\Debug\netcoreapp3.1\Code2.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\C#\Code2\obj\Debug\netcoreapp3.1\Code2.dll
+D:\Hoc_Tap\C#\Code2\obj\Debug\netcoreapp3.1\Code2.pdb
+D:\Hoc_Tap\C#\Code2\obj\Debug\netcoreapp3.1\Code2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Hoc_Tap\C#\Code7\bin\Debug\netcoreapp3.1\Code7.exe
+D:\Hoc_Tap\C#\Code7\bin\Debug\netcoreapp3.1\Code7.deps.json
+D:\Hoc_Tap\C#\Code7\bin\Debug\netcoreapp3.1\Code7.runtimeconfig.json
+D:\Hoc_Tap\C#\Code7\bin\Debug\netcoreapp3.1\Code7.runtimeconfig.dev.json
+D:\Hoc_Tap\C#\Code7\bin\Debug\netcoreapp3.1\Code7.dll
+D:\Hoc_Tap\C#\Code7\bin\Debug\netcoreapp3.1\Code7.pdb
+D:\Hoc_Tap\C#\Code7\obj\Debug\netcoreapp3.1\Code7.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\Code7\obj\Debug\netcoreapp3.1\Code7.AssemblyInfo.cs
+D:\Hoc_Tap\C#\Code7\obj\Debug\netcoreapp3.1\Code7.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\C#\Code7\obj\Debug\netcoreapp3.1\Code7.dll
+D:\Hoc_Tap\C#\Code7\obj\Debug\netcoreapp3.1\Code7.pdb
+D:\Hoc_Tap\C#\Code7\obj\Debug\netcoreapp3.1\Code7.genruntimeconfig.cache

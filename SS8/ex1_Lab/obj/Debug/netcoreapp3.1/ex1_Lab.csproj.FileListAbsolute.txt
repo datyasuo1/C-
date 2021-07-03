@@ -1,0 +1,13 @@
+D:\Hoc_Tap\C#\ex1_Lab\bin\Debug\netcoreapp3.1\ex1_Lab.exe
+D:\Hoc_Tap\C#\ex1_Lab\bin\Debug\netcoreapp3.1\ex1_Lab.deps.json
+D:\Hoc_Tap\C#\ex1_Lab\bin\Debug\netcoreapp3.1\ex1_Lab.runtimeconfig.json
+D:\Hoc_Tap\C#\ex1_Lab\bin\Debug\netcoreapp3.1\ex1_Lab.runtimeconfig.dev.json
+D:\Hoc_Tap\C#\ex1_Lab\bin\Debug\netcoreapp3.1\ex1_Lab.dll
+D:\Hoc_Tap\C#\ex1_Lab\bin\Debug\netcoreapp3.1\ex1_Lab.pdb
+D:\Hoc_Tap\C#\ex1_Lab\obj\Debug\netcoreapp3.1\ex1_Lab.AssemblyInfoInputs.cache
+D:\Hoc_Tap\C#\ex1_Lab\obj\Debug\netcoreapp3.1\ex1_Lab.AssemblyInfo.cs
+D:\Hoc_Tap\C#\ex1_Lab\obj\Debug\netcoreapp3.1\ex1_Lab.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\C#\ex1_Lab\obj\Debug\netcoreapp3.1\ex1_Lab.dll
+D:\Hoc_Tap\C#\ex1_Lab\obj\Debug\netcoreapp3.1\ex1_Lab.pdb
+D:\Hoc_Tap\C#\ex1_Lab\obj\Debug\netcoreapp3.1\ex1_Lab.genruntimeconfig.cache
+D:\Hoc_Tap\C#\ex1_Lab\obj\Debug\netcoreapp3.1\ex1_Lab.csproj.AssemblyReference.cache
