@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\Task8\bin\Debug\netcoreapp3.1\Task8.exe
+C:\Users\ADMIN\source\repos\Task8\bin\Debug\netcoreapp3.1\Task8.deps.json
+C:\Users\ADMIN\source\repos\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Task8\bin\Debug\netcoreapp3.1\Task8.dll
+C:\Users\ADMIN\source\repos\Task8\bin\Debug\netcoreapp3.1\Task8.pdb
+C:\Users\ADMIN\source\repos\Task8\obj\Debug\netcoreapp3.1\Task8.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Task8\obj\Debug\netcoreapp3.1\Task8.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Task8\obj\Debug\netcoreapp3.1\Task8.dll
+C:\Users\ADMIN\source\repos\Task8\obj\Debug\netcoreapp3.1\Task8.pdb
+C:\Users\ADMIN\source\repos\Task8\obj\Debug\netcoreapp3.1\Task8.genruntimeconfig.cache

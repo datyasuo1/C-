@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\Task8.ex2\bin\Debug\netcoreapp3.1\Task8.ex2.exe
+C:\Users\ADMIN\source\repos\Task8.ex2\bin\Debug\netcoreapp3.1\Task8.ex2.deps.json
+C:\Users\ADMIN\source\repos\Task8.ex2\bin\Debug\netcoreapp3.1\Task8.ex2.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Task8.ex2\bin\Debug\netcoreapp3.1\Task8.ex2.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Task8.ex2\bin\Debug\netcoreapp3.1\Task8.ex2.dll
+C:\Users\ADMIN\source\repos\Task8.ex2\bin\Debug\netcoreapp3.1\Task8.ex2.pdb
+C:\Users\ADMIN\source\repos\Task8.ex2\obj\Debug\netcoreapp3.1\Task8.ex2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Task8.ex2\obj\Debug\netcoreapp3.1\Task8.ex2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Task8.ex2\obj\Debug\netcoreapp3.1\Task8.ex2.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Task8.ex2\obj\Debug\netcoreapp3.1\Task8.ex2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Task8.ex2\obj\Debug\netcoreapp3.1\Task8.ex2.dll
+C:\Users\ADMIN\source\repos\Task8.ex2\obj\Debug\netcoreapp3.1\Task8.ex2.pdb
+C:\Users\ADMIN\source\repos\Task8.ex2\obj\Debug\netcoreapp3.1\Task8.ex2.genruntimeconfig.cache

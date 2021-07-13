@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\task8.ex3\bin\Debug\netcoreapp3.1\task8.ex3.exe
+C:\Users\ADMIN\source\repos\task8.ex3\bin\Debug\netcoreapp3.1\task8.ex3.deps.json
+C:\Users\ADMIN\source\repos\task8.ex3\bin\Debug\netcoreapp3.1\task8.ex3.runtimeconfig.json
+C:\Users\ADMIN\source\repos\task8.ex3\bin\Debug\netcoreapp3.1\task8.ex3.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\task8.ex3\bin\Debug\netcoreapp3.1\task8.ex3.dll
+C:\Users\ADMIN\source\repos\task8.ex3\bin\Debug\netcoreapp3.1\task8.ex3.pdb
+C:\Users\ADMIN\source\repos\task8.ex3\obj\Debug\netcoreapp3.1\task8.ex3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\task8.ex3\obj\Debug\netcoreapp3.1\task8.ex3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\task8.ex3\obj\Debug\netcoreapp3.1\task8.ex3.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\task8.ex3\obj\Debug\netcoreapp3.1\task8.ex3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\task8.ex3\obj\Debug\netcoreapp3.1\task8.ex3.dll
+C:\Users\ADMIN\source\repos\task8.ex3\obj\Debug\netcoreapp3.1\task8.ex3.pdb
+C:\Users\ADMIN\source\repos\task8.ex3\obj\Debug\netcoreapp3.1\task8.ex3.genruntimeconfig.cache
