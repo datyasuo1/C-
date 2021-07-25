@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hoc_Tap\\C#\\GeometryExample\\GeometryExample.csproj": {}
+    "D:\\C-\\Thi]\\GeometryExample\\GeometryExample.csproj": {}
   },
   "projects": {
-    "D:\\Hoc_Tap\\C#\\GeometryExample\\GeometryExample.csproj": {
+    "D:\\C-\\Thi]\\GeometryExample\\GeometryExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoc_Tap\\C#\\GeometryExample\\GeometryExample.csproj",
+        "projectUniqueName": "D:\\C-\\Thi]\\GeometryExample\\GeometryExample.csproj",
         "projectName": "GeometryExample",
-        "projectPath": "D:\\Hoc_Tap\\C#\\GeometryExample\\GeometryExample.csproj",
+        "projectPath": "D:\\C-\\Thi]\\GeometryExample\\GeometryExample.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoc_Tap\\C#\\GeometryExample\\obj\\",
+        "outputPath": "D:\\C-\\Thi]\\GeometryExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,3 +11,16 @@ D:\Hoc_Tap\C#\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csproj.Cor
 D:\Hoc_Tap\C#\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.dll
 D:\Hoc_Tap\C#\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.pdb
 D:\Hoc_Tap\C#\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.genruntimeconfig.cache
+D:\C-\Thi]\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.exe
+D:\C-\Thi]\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.deps.json
+D:\C-\Thi]\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.json
+D:\C-\Thi]\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.dev.json
+D:\C-\Thi]\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.dll
+D:\C-\Thi]\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.pdb
+D:\C-\Thi]\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csproj.AssemblyReference.cache
+D:\C-\Thi]\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfoInputs.cache
+D:\C-\Thi]\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfo.cs
+D:\C-\Thi]\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csproj.CoreCompileInputs.cache
+D:\C-\Thi]\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.dll
+D:\C-\Thi]\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.pdb
+D:\C-\Thi]\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.genruntimeconfig.cache
